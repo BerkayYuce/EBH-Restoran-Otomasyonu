@@ -3,6 +3,7 @@
 ### *(C#, Visual Studio, MySQL, RDBMS)* <br/>
 `Berkay Yüce` <br/>
 (Grup Çalışmasıdır)
+
 **Admin ve Personel Giriş Sayfaları** <br/> <br/>
 <img width="245" alt="yönetici_giriş" src="https://github.com/ensarakbas77/EBH-Restaurant-Automation/assets/118851779/18834831-9612-428c-a77a-3b63eae5a55a">
 <img width="230" alt="personel_giriş" src="https://github.com/ensarakbas77/EBH-Restaurant-Automation/assets/118851779/db85ec82-8f40-4a79-9149-c6dc5753df9c"> <br/>
